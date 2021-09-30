@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Maitryee-Choudhary/BCE-.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Maitryee-Choudhary/BCE-.git/static/js/main.6bc689e0.chunk.js",
+    "main.js.map": "/Maitryee-Choudhary/BCE-.git/static/js/main.6bc689e0.chunk.js.map",
+    "runtime-main.js": "/Maitryee-Choudhary/BCE-.git/static/js/runtime-main.c02c70bb.js",
+    "runtime-main.js.map": "/Maitryee-Choudhary/BCE-.git/static/js/runtime-main.c02c70bb.js.map",
+    "static/js/2.8833cd6e.chunk.js": "/Maitryee-Choudhary/BCE-.git/static/js/2.8833cd6e.chunk.js",
+    "static/js/2.8833cd6e.chunk.js.map": "/Maitryee-Choudhary/BCE-.git/static/js/2.8833cd6e.chunk.js.map",
+    "static/js/3.ff0311e9.chunk.js": "/Maitryee-Choudhary/BCE-.git/static/js/3.ff0311e9.chunk.js",
+    "static/js/3.ff0311e9.chunk.js.map": "/Maitryee-Choudhary/BCE-.git/static/js/3.ff0311e9.chunk.js.map",
+    "index.html": "/Maitryee-Choudhary/BCE-.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Maitryee-Choudhary/BCE-.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/Maitryee-Choudhary/BCE-.git/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Maitryee-Choudhary/BCE-.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02c70bb.js",
+    "static/js/2.8833cd6e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6bc689e0.chunk.js"
+  ]
+}
